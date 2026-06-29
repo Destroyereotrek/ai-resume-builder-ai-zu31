@@ -1,4 +1,4 @@
-# 
+# VIP AI Resume Builder 脚本。集成 特征提取 和 聊天机器人集成，性能最大化。
 
 
 
